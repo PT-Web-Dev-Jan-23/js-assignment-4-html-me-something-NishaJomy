@@ -1,1 +1,212 @@
-/* Write your CSS here! */
+body{
+    margin: 8px;
+    display: block;
+    }
+
+
+.headerheading{
+background-color:bisque;
+
+width: 100%;
+height: 100px;
+}
+
+.image{
+width: 100%;  
+height: 400px;
+}
+
+#mainHeading{
+color:red;
+font-family:'Kaushan Script', cursive;
+font:bolder;
+font-size: 10ch;
+text-align:center;
+}
+
+.funParagraph{
+color: green;
+background-color: beige;
+width: 100% ;
+height: 100px;
+}
+
+.para1{
+height:100px;
+width:100%;
+}
+
+.heading{
+text-align: center;
+color:black;
+font-size:xx-large;
+font-family: 'Creepster', cursive;
+}
+
+.list{
+height:400px;
+width:100%;
+display: flex;
+
+}
+
+#item1{
+
+height:400px;
+width:25%;
+}
+#item2{
+
+height:400px;
+width:25%;
+}
+#item3{
+
+height:400px;
+width:25%;
+}
+#item4{
+
+height:400px;
+width:25%;
+}
+.pic{
+
+height:300px;
+width:100%;
+
+
+}
+.describe{
+height:50px;
+width:100%;
+text-align: center;
+font-size: large;
+}
+
+
+
+.arch{
+position: relative;
+width: 100%; /* Maximum width */
+margin: 0 auto; /* Center it */
+height: 500px;
+}
+
+
+.video{
+padding-left: 500px;
+margin-top:0px;
+}
+
+.fa fa-facebook {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.fa fa-twitter {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.fa fa-youtube {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.fa fa-linkedin-square {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.footerr{
+display:flex;
+margin-bottom: 10px;
+height:300px;
+background-color:blanchedalmond;
+}
+
+.f{
+margin-top: 100px;
+margin-left: 10px;
+}
+
+.t{
+margin-top: 100px;
+margin-left: 80px;
+}
+
+.y{
+margin-top: 100px;
+margin-left: 120px;
+}
+
+.l{
+margin-top: 100px;
+margin-left: 150px;
+}
+
+.copy{
+margin-top: 20px;
+margin-right: 600px;
+}
+
+.botanicalGarden{
+padding-left: 8px;
+padding-right: 8px;
+background-color:honeydew;
+height:300px;
+width:100%;
+}
+
+.artMuseum{
+padding-left: 8px;
+padding-right: 8px;
+background-color:honeydew;
+height:300px;
+width:100%;
+}
+
+.gatewayarch{
+padding-left: 8px;
+padding-right: 8px;
+background-color:honeydew;
+height:300px;
+width:100%;
+}
+
+.zoo{
+padding-left: 8px;
+padding-right: 8px;
+background-color:honeydew;
+height:300px;
+width:100%;
+}
+
+.momap{
+    
+height: 400px;
+width: 100%;
+}
+
+.momap .map{
+height: 300px;
+width: 300px;
+}
+
+.subhead{
+color:yellowgreen;
+background-color: azure;
+}
